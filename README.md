@@ -1,1 +1,1 @@
-# Single-Page-Web-Application
+# Single-page webalkalmazások laborfeladatok
